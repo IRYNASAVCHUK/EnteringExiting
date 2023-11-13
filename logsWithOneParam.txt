@@ -1,0 +1,2 @@
+nov 13, 2023 9:10:30 AM EnteringWithOneParam main
+FINER: ENTRY Java is Platform Independent

@@ -1,0 +1,6 @@
+nov 13, 2023 9:24:17 AM EnteringExiting main
+FINER: ENTRY
+nov 13, 2023 9:24:18 AM java.util.List toString()
+FINER: ENTRY
+nov 13, 2023 9:24:18 AM ExitingClasic main
+FINER: RETURN
